@@ -1,0 +1,1 @@
+date,aqi,datetime,day_of_week,month,is_weekend,aqi_lag1,aqi_lag2,aqi_lag3,aqi_lag7,aqi_lag14,aqi_roll3,aqi_roll7,aqi_change_rate
