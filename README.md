@@ -2,7 +2,7 @@
 
 **Live Dashboard:** https://aqipredictor-jwzqttnrgueww7a6a5adm3.streamlit.app/
 
-**GitHub:** https://github.com/MuzamilMM/aqi_predictor
+**GitHub:** https://github.com/uzair-khiiba/AQI_Predictor_Project/
 
 An end-to-end machine learning pipeline that predicts Karachi's Air Quality Index (AQI) for the next 3 days. The system fetches real data every hour, retrains models every day, and serves predictions through a publicly deployed Streamlit dashboard — fully automated via GitHub Actions with zero manual work after initial setup.
 
@@ -250,4 +250,4 @@ streamlit run dashboard.py
 
 ---
 
-*Data: OpenMeteo · City: Karachi, Pakistan (24.8607°N, 67.0011°E) · Updated: June 2026*
+*Data: OpenMeteo · City: Karachi, Pakistan (24.8607°N, 67.0011°E) · Updated: August 2026*
